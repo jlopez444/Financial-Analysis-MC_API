@@ -11,3 +11,5 @@ Collect Investments Data Using Alpaca: `SPY` (stocks) and `AGG` (bonds),
 Savings Health Analysis,
 Retirement Planning by using a Monte Carlo Simulation,
 Retirement Analysis
+
+## Dependencies
