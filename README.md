@@ -14,11 +14,11 @@ Retirement Planning by using a Monte Carlo Simulation,
 Retirement Analysis
 
 ## Dependencies
-import os
-import requests
-import pandas as pd
-from dotenv import load_dotenv
-import alpaca_trade_api as tradeapi
-from MCForecastTools import MCSimulation
-load_dotenv
-Personal Alpaca API Key
+* import os
+* import requests
+* import pandas as pd
+* from dotenv import load_dotenv
+* import alpaca_trade_api as tradeapi
+* from MCForecastTools import MCSimulation
+* load_dotenv
+* Personal Alpaca API Key
